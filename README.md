@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanorozco0801
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning Javascript, HTML, CSS and react
+- 👀 Software developer
+- 🌱 Skills Javascript, HTML, CSS and react, python and computer vision
 - 📫 How to reach me, juan8.d.orozco@gmail.com
 
 <!---
